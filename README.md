@@ -5,14 +5,13 @@ Some of the apps I developped alone or in a team.
 BrawlBot: A SpriteKit, SceneKit game
 
 
-![image](https://user-images.githubusercontent.com/34959691/154285187-b99a74a4-c17c-4aad-ad65-af7112a18f64.png)
-
+![image](https://user-images.githubusercontent.com/34959691/154285199-e1b1f6c3-0989-488c-b3bb-326f4ff78c5c.png)
 
 
 ForCuisine: A 3D menu app displaying restaurants dishes in the augmented reality world
 
 
-![image](https://user-images.githubusercontent.com/34959691/154285199-e1b1f6c3-0989-488c-b3bb-326f4ff78c5c.png)
+![image](https://user-images.githubusercontent.com/34959691/154285187-b99a74a4-c17c-4aad-ad65-af7112a18f64.png)
 
 
 
