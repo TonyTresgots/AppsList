@@ -1,0 +1,35 @@
+/* 
+  Localizable.strings
+  ForCuisine
+
+  Created by Paolo Sito on 09/03/2020.
+  Copyright © 2020 Philip Lim. All rights reserved.
+*/
+// FRONT PAGE //
+// EXTRA NOTE: HIGHLIGHTS AND 3 CUISINES ARE NOT CHANGED IN THE CODE!!!!
+"Specialities" = "Specialità";
+"Our recommendations" = "Le nostre raccomandazioni";
+"Ready to Order" = "Ordina Ora";
+"See Full Menu" = "Vedi menù completo";
+"Starter" = "Antipasti";
+"Dessert" = "Dolci";
+"Full menu" = "Menù completo";
+// FIRST PLATE SHOWED //
+"Kabab Saffron Rice" = "Kabab con Riso allo Zafferano";
+"Persian / Iranian Cuisine" = "Cucina Persiana / Iraniana";
+"Main" = "Primi";
+"grated meat, basmati rice, saffron flower, onion, salt, pepper, sumac specie," = "carne macinata, riso basmati, zafferano, cipolla, sale ,pepe, spezia sumac,";
+" butter " = " burro ";
+"Kubideh is the Iran’s signature Kebab and the most famous of them all. It is made from ground lamb, beef or chicken mixed with grated onions. Koobideh refers to the style that meat was prepared, originally placed on a flat stone (precisely a black flat stone) and was smashed by wooden mallet. \n\nThe Kabab kubideh is then grilled on skewers, traditionally over hot coals, and is served with Chelo (Iranian basmati rice with oil, salt and saffron), accompanied by grilled tomatoes and onions. Sumac is usually served as a tableside garnishing spice." = "Il Kabab è il Kebab tipico dell'Iran ed è il più famoso di tutti. E' composto da macinato di agnello, manzo o pollo e mescolato con cipolle tritate. Koobideh si riferisce allo stile con il quale questa carne veniva preparata, originariamente collocata su una pietra piatta (precisamente una pietra nera piatta) e macinata con un martello di legno. \n\nIl Kabab kubideh poi viene grigliato su degli spiedini, tradizionalmente su carboni ardenti, ed è servito con il Chelo (riso basmati Iraniano con olio, sale e zafferano), accompagnato con pomodori grigliati e cipolla. Il Sumac è servito di solito al tavolo come spezia da aggiungere a piacimento.";
+"(Chelo Kubideh)" = "(Chelo Kubideh)";
+"Soraya Tea House" = "Soraya Tea House";
+// SECOND PLATE SHOWED//
+"Kabab Meal" = "carne di Kabab";
+"ground chicken, lamb and beef, basmati rice, saffron flower" = "pollo macinato, manzo ed agnello, riso basmati, zafferano";
+"Kabab Meal is in fact barbecued lamb, chicken or beef kebab dish. The main ingredients of Kabab-e Barg are fillets of beef tenderloin, lamb shank, onions, safron, olive oil and mild spices." = "la carne di Kabab è in effetti agnello, manzo o pollo arrostito. Gli ingredienti principali del Kabab sono il filetto di manzo, stinco di agnello, cipolle, zafferano, olio d'oliva e spezie delicate.";
+// THIRD PLATE SHOWED //
+"Chicken Kabab" = "Kabab di pollo";
+"chicken meat, basmati rice, saffron flower, tomato, onion, salt, pepper, oliver oil, yogurt, lemon" = "carne di pollo, riso basmati, zafferano, pomodoro, cipolla, sale, pepe, olio d'oliva, yogurt, limone";
+"This Persian grilled saffron chicken is prepared by having the chicken pieces marinated in a saffron and yogurt based marinade and the chef usually having them marinated overnight to allow the chicken to absorb the flavors of saffron and lemon perfectly and becomes extra juicy and flavourful. It is served with Chelo (Iranian basmati rice with oil, lemon, tomato and saffron)" = "Questo pollo grigliato allo zafferano Persiano è preparato mettendo i pezzi di pollo a marinare in una marinatura a base di zafferano e yogurt. Il cuoco solitamente li lascia a marinare tutta la notte per permettere al pollo di assorbire la fragranza dello zafferano e del limone perfettamente diventando così molto succulento e saporito";
+// FOURTH PLATE SHOWED //
+
